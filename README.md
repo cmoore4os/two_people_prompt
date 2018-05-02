@@ -1,5 +1,5 @@
 # Two People Prompt
-The backend for Two People Prompt -- a writing prompt challenge
+A writing prompt challenge
 
 Two people are standing an a passageway. Who are they? Why are they there? What are they doing? Those are question for you to answer. 
 
